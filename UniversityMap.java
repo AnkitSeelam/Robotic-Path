@@ -1,11 +1,3 @@
-// --== CS400 File Header Information ==--
-// Name: Ankit Reddy Seelam
-// Email: aseelam@wisc.edu
-// Team: LC
-// Role: Front End Developer
-// TA: Divyanshu Saxena
-// Lecturer: Gary Dahl
-// Notes to Grader: NONE
 public class UniversityMap {
 
   private static CS400Graph<String> graph;
