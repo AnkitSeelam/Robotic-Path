@@ -1,11 +1,4 @@
-// --== CS400 File Header Information ==--
-// Name: Ankit Reddy Seelam
-// Email: aseelam@wisc.edu
-// Team: LC
-// Role: Front End Developer
-// TA: Divyanshu Saxena
-// Lecturer: Gary Dahl
-// Notes to Grader: NONE
+
 
 import org.junit.jupiter.api.Test;
 import static org.junit.Assert.fail;
