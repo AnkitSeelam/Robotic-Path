@@ -1,11 +1,3 @@
-// --== CS400 File Header Information ==--
-// Name: Ankit Reddy Seelam
-// Email: aseelam@wisc.edu
-// Team: LC
-// Role: Front End Developer
-// TA: Divyanshu Saxena
-// Lecturer: Gary Dahl
-// Notes to Grader: NONE
 import java.util.Hashtable;
 import java.util.List;
 import java.util.LinkedList;
